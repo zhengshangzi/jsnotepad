@@ -1,18 +1,18 @@
 {
   "name": "jsnotepad",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Windows 记事本网页版",  
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0"
+    "test": "grunt lint",
+    "build": "grunt build"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zhengshangzi/jsnotepad.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "zhengshangzi",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/zhengshangzi/jsnotepad/issues"
   },
