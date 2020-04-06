@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Windows 记事本网页版",  
   "scripts": {
-    "test": "grunt lint",
-    "build": "grunt build"  
+    "test": "echo \"Error: no test specified\" && exit 0"
+
   },
   "repository": {
     "type": "git",
