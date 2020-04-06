@@ -1,3 +1,5 @@
+# dist grunt output directory
+dist/
 # Logs
 logs
 *.log
