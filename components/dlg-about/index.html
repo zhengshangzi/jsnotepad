@@ -7,14 +7,14 @@
 </head>
 <body>
 <div class="test">
-  <input type="button" value="弹出对话框" id="test">
+  <input type="button" value="弹出对话框">
 </div>
 <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>    
 <script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.min.js"></script>
 <script src="./dlg-about.js"></script>
 <script>
 $(function() {
-  var $btnTest = $('#test');
+  var $btnTest = $('div.test>input[type="button"]');
   $btnTest.click(function() {
     $dlgAbout.show();
   });

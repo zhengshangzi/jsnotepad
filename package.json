@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "description": "Windows 记事本网页版",  
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0"
+    "test": "grunt lint",
+    "build": "grunt build"  
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zhengshangzi/jsnotepad.git"
   },
-  "keywords": [],
   "author": "zhengshangzi",
   "license": "MIT",
   "bugs": {
