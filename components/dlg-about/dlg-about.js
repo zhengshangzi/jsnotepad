@@ -11,7 +11,7 @@ var $dlgAbout = (function() {
               + '<hr>'
               + '<img class="app-logo" src="../../images/notepad-icon.png" alt="JSNotepad">'
               + '<div class="info">'
-                + '<p>作者：郑尚姿</p>'
+                + '<p>作者:郑尚姿</p>'
                 + '<p>QQ：1643613240</p>'
                 + '<p>仓库地址：<a href="https://github.com/zhengshangzi/jsnotepad/" target="_blank">https://github.com/zhengshangzi/jsnotepad/</a></p>'
               + '</div>'
