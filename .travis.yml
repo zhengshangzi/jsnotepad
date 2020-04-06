@@ -3,8 +3,7 @@ node_js:
   - "node"
 
 after_script:
-  - grunt lint
-  - grunt build
+  - npm run build
   - cd ./dist
   - git init
   - git config user.name "${USER_NAME}"
