@@ -4,7 +4,6 @@
   "description": "Windows 记事本网页版",  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
-
   },
   "repository": {
     "type": "git",
